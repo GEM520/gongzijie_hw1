@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/vscode/algebra/gongzijie_hw1/build",
+  "command": "\"E:\\Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup\\Dev-Cpp\\MinGW64\\bin\\gcc.exe\"  @CMakeFiles/algebra.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\algebra.dir\\src\\main.c.obj -c D:\\vscode\\algebra\\gongzijie_hw1\\src\\main.c",
+  "file": "D:/vscode/algebra/gongzijie_hw1/src/main.c",
+  "output": "CMakeFiles/algebra.dir/src/main.c.obj"
+},
+{
+  "directory": "D:/vscode/algebra/gongzijie_hw1/build",
+  "command": "\"E:\\Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup\\Dev-Cpp\\MinGW64\\bin\\gcc.exe\"  @CMakeFiles/algebra.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\algebra.dir\\src\\algebra.c.obj -c D:\\vscode\\algebra\\gongzijie_hw1\\src\\algebra.c",
+  "file": "D:/vscode/algebra/gongzijie_hw1/src/algebra.c",
+  "output": "CMakeFiles/algebra.dir/src/algebra.c.obj"
+}
+]

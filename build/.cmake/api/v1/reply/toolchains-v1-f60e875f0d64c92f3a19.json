@@ -1,0 +1,93 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include",
+						"E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/include",
+						"E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed",
+						"E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/bin/gcc.exe",
+				"version" : "4.9.2"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++",
+						"E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32",
+						"E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward",
+						"E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include",
+						"E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/include",
+						"E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed",
+						"E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/bin/g++.exe",
+				"version" : "4.9.2"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "E:/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup/Dev-Cpp/MinGW64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

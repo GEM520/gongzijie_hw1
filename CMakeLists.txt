@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(algebra)
+set(CMAKE_C_STANDARD 99)
+include_directories(inc)
+set(SOURCES src/main.c src/algebra.c)
+add_executable(algebra ${SOURCES})
