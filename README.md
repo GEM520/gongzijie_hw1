@@ -88,23 +88,43 @@
 
 ## 三、本地运行截图 
 
-![1](C:\Users\lenovo\Pictures\Screenshots\1.png)
+![]([photo/1.png at master · GEM520/photo](https://github.com/GEM520/photo/blob/master/1.png)
 
-![屏幕截图 2025-05-03 223257](C:\Users\lenovo\Pictures\Screenshots\屏幕截图 2025-05-03 223257.png)
 
-![屏幕截图 2025-05-03 223221](C:\Users\lenovo\Pictures\Screenshots\屏幕截图 2025-05-03 223221.png)
 
-![屏幕截图 2025-05-03 224122](C:\Users\lenovo\Pictures\Screenshots\屏幕截图 2025-05-03 224122.png)
+![]([photo/2.png at master · GEM520/photo
 
-![屏幕截图 2025-05-03 224200](C:\Users\lenovo\Pictures\Screenshots\屏幕截图 2025-05-03 224200.png)
+[](https://github.com/GEM520/photo/blob/master/2.png)
 
-![屏幕截图 2025-05-03 224253](C:\Users\lenovo\Pictures\Screenshots\屏幕截图 2025-05-03 224253.png)
+![]([photo/3.png at master · GEM520/photo
 
-![屏幕截图 2025-05-03 224320](C:\Users\lenovo\Pictures\Screenshots\屏幕截图 2025-05-03 224320.png)
+[](https://github.com/GEM520/photo/blob/master/3.png)
 
-![屏幕截图 2025-05-03 224521](C:\Users\lenovo\Pictures\Screenshots\屏幕截图 2025-05-03 224521.png)
+![]([photo/4.png at master · GEM520/photo](https://github.com/GEM520/photo/blob/master/4.png)
 
-![屏幕截图 2025-05-03 224554](C:\Users\lenovo\Pictures\Screenshots\屏幕截图 2025-05-03 224554.png)
+
+
+![]([photo/5.png at master · GEM520/photo
+
+[](https://github.com/GEM520/photo/blob/master/5.png)
+
+![]([photo/6.png at master · GEM520/photo
+
+[](https://github.com/GEM520/photo/blob/master/6.png)
+
+![]([photo/7.png at master · GEM520/photo](https://github.com/GEM520/photo/blob/master/7.png)
+
+
+
+![]([photo/8.png at master · GEM520/photo
+
+[](https://github.com/GEM520/photo/blob/master/8.png)
+
+![]([photo/9.png at master · GEM520/photo
+
+[](https://github.com/GEM520/photo/blob/master/9.png)
+
+![]([photo/10.png at master · GEM520/photo](https://github.com/GEM520/photo/blob/master/10.png)
 
 ## 四、工程结构说明 
 
