@@ -88,43 +88,27 @@
 
 ## 三、本地运行截图 
 
-![]([photo/1.png at master · GEM520/photo](https://github.com/GEM520/photo/blob/master/1.png)
+![](https://github.com/GEM520/photo/raw/master/1.png?raw=true)
+
+![](https://github.com/GEM520/photo/raw/master/2.png?raw=true)
+
+![](https://github.com/GEM520/photo/raw/master/3.png?raw=true)
+
+![](https://github.com/GEM520/photo/raw/master/4.png?raw=true)
 
 
 
-![]([photo/2.png at master · GEM520/photo
+![](https://github.com/GEM520/photo/raw/master/5.png?raw=true)
 
-[](https://github.com/GEM520/photo/blob/master/2.png)
+![](https://github.com/GEM520/photo/raw/master/6.png?raw=true)
 
-![]([photo/3.png at master · GEM520/photo
+![](https://github.com/GEM520/photo/raw/master/8.png?raw=true)
 
-[](https://github.com/GEM520/photo/blob/master/3.png)
+![](https://github.com/GEM520/photo/raw/master/9.png?raw=true)
 
-![]([photo/4.png at master · GEM520/photo](https://github.com/GEM520/photo/blob/master/4.png)
-
-
-
-![]([photo/5.png at master · GEM520/photo
-
-[](https://github.com/GEM520/photo/blob/master/5.png)
-
-![]([photo/6.png at master · GEM520/photo
-
-[](https://github.com/GEM520/photo/blob/master/6.png)
-
-![]([photo/7.png at master · GEM520/photo](https://github.com/GEM520/photo/blob/master/7.png)
+![](https://github.com/GEM520/photo/raw/master/10.png?raw=true)
 
 
-
-![]([photo/8.png at master · GEM520/photo
-
-[](https://github.com/GEM520/photo/blob/master/8.png)
-
-![]([photo/9.png at master · GEM520/photo
-
-[](https://github.com/GEM520/photo/blob/master/9.png)
-
-![]([photo/10.png at master · GEM520/photo](https://github.com/GEM520/photo/blob/master/10.png)
 
 ## 四、工程结构说明 
 
